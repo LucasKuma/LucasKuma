@@ -37,7 +37,7 @@
 
 ###
 
-<img align="right" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzF1d3J0OHBla3N1MGh3dDVlcTYzcG04eTE1OHUwejNtbHV0cnUwZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif"  />
+<img align="right" width=130px height=130px src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzF1d3J0OHBla3N1MGh3dDVlcTYzcG04eTE1OHUwejNtbHV0cnUwZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif"  />
 
 ###
 
@@ -45,8 +45,7 @@
   <a href="https://www.instagram.com/lucaskuhlmann/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <a href="lucas.khmn@gmail.com" target="_blank">
+  <a href="lucas.khmn@gmail.com](https://lucaskuhlmann.netlify.app/contato/contato.html" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/lucas-kuhlmann/" target="_blank">
@@ -57,7 +56,5 @@
 ###
 
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/LucasKuma/LucasKuma/output/snake.svg" alt="Snake animation" />
 
 ###
